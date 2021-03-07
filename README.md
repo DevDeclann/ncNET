@@ -5,6 +5,7 @@ Python shell for bypassing (Windows Defender), educational purposes.
 <hr>
 
 Usage of ncNET for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. I'm not responsible for any misuse or damage caused by this script. Only use for educational purposes only.
+If missue this tool, do not abuse this script. Cheers
 
 <hr>
 <h1>Usage:</h1>
